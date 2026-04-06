@@ -1,0 +1,2 @@
+A porta inversora equivale à operação NOT em booleano.
+O símbolo é um triângulo com base à direita, como um botão de play.
